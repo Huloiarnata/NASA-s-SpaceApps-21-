@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "291140409391",
+    "project_id": "hackathon-sunshine",
+    "storage_bucket": "hackathon-sunshine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291140409391:android:ebc5b94bcd6b5b2cf68eda",
+        "android_client_info": {
+          "package_name": "com.example.sunshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291140409391-9gav5iavstsgt8gj2nvghrf066c41aak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunshine",
+            "certificate_hash": "7825c3f502ee130c26f2542d4b1bcb673b41b4ee"
+          }
+        },
+        {
+          "client_id": "291140409391-4refhjqb7lhd12c7r5gur9mda836aprp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnIMUZtIKxmHERufzkUWFylJbeKnqmyJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291140409391-4refhjqb7lhd12c7r5gur9mda836aprp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

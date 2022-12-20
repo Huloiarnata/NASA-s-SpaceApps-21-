@@ -1,0 +1,38 @@
+27/09/2021
+
+objective: Discussing And Finalising Roles Of Members & Finalising System Design
+
+Roles:
+
+Arin:
+
+1) He will do web scrapping from NASA's website. 
+2) What data & for what widget?
+   
+   1){Total energy produced by solar panel}
+      He will fetch data from url for variable latitude/ latitude and slice the dictionary to produce an average kw-hr*day/m2
+   2){DOWNLOAD NASA DATA}
+     will Follow up on this after previous work is done. 
+
+Divyapratap: 
+
+
+1)from the dictionary fetched by the url with the lat/long same he will create a widget for graph plotting
+2) will follow up after completion
+
+Dhruv:
+
+1)he will geo stationary lat longitude with gps in flutter which will be used by 'total energy produced by panel' widget
+and thereafter used in graph by Divyapratap
+2)will follow up later
+
+Ronit:
+1) UI/UX design
+2) help in geostationary location fetching
+3) login , database manegement: FIREBASE
+4) will follow up later
+
+
+https://power.larc.nasa.gov/api/temporal/monthly/point?parameters=PRECTOTCORR,ALLSKY_SFC_SW_DWN,CLRSKY_SFC_SW_DWN,T2M&community=RE&longitude=77.3823&latitude=28.6453&format=JSON&start=2017&end=2020
+      
+   
